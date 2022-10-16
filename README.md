@@ -3,6 +3,6 @@
   
 [![young-programmer](https://user-images.githubusercontent.com/115164058/196003705-cc472fae-f2c8-4651-b93e-9109f8ddeafa.svg)](https://onilooo.github.io/readme/badge/)
 [![uses-html](https://user-images.githubusercontent.com/115164058/196003947-749c7fc3-d019-4252-b5c9-941585c3311a.svg)](https://onilooo.github.io/readme/badge/)
-[![brain-paused-lol](https://user-images.githubusercontent.com/115164058/196031918-5906f4d8-459e-4e0d-9668-02dbac6add04.svg)](https://onilooo.github.io/readme/badge/)
+[![paused-24/7](https://user-images.githubusercontent.com/115164058/196032007-9d803b39-012c-4224-888b-179304135255.svg)](https://onilooo.github.io/readme/badge/)
 
 thats all i guess...
