@@ -5,4 +5,6 @@
 [![uses-html](https://user-images.githubusercontent.com/115164058/196003947-749c7fc3-d019-4252-b5c9-941585c3311a.svg)](https://onilooo.github.io/readme/badge/)
 [![paused-24/7](https://user-images.githubusercontent.com/115164058/196032007-9d803b39-012c-4224-888b-179304135255.svg)](https://onilooo.github.io/readme/badge/)
 
+[![onilooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=onilooo)](https://github.com/anuraghazra/github-readme-stats)
+
 thats all i guess...
